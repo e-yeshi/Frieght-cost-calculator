@@ -1,0 +1,22 @@
+.home-button{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.practica-button{
+  position: absolute;
+  bottom: 0;
+  right: 87px;
+}
+.main-color{
+  background-color: #60899f;
+}
+.btn-calculate{
+  float: right;
+}
+.main-title{
+  padding: 1.5em;
+}
+.main-content{
+  padding-left: 3em;
+}
